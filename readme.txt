@@ -1,6 +1,6 @@
 windows platform:
-accessKey : F9VG28ZHDXMN033TUUA6
-secretKey : qVQi9Nodi6rUmZoAxt8w5P1B3PxsHD6StNSLZJNK
+accessKey : *
+secretKey : *
 1. minio.exe server D:\Photos    #setup store directory and start server
 
 
