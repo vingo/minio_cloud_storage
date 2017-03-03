@@ -1,0 +1,1 @@
+./bin/minio.exe server ./photos
